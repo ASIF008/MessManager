@@ -11,6 +11,8 @@ import android.widget.ImageView;
  * Created by asif on 1/28/17.
  */
 
+// attempt to merge
+
 public class Splash extends Activity {
     @Override
     protected void onCreate(Bundle savedInstanceState) {
